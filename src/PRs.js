@@ -28,5 +28,11 @@ export const PRs = [
         Name: 'Kaveesha Perera',
         PRDate: '16/7/2022',
         Issue: 'Issue 5'
+    },
+    {
+        id: 6,
+        Name: 'Heshan Andrews',
+        PRDate: '8/8/2022',
+        Issue: 'Issue 6'
     }
 ]
