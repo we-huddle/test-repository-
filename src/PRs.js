@@ -25,7 +25,7 @@ export const PRs = [
     },
     {
         id: 5,
-        Name: 'Kaveesha Perera',
+        Name: 'Kavisha Perera',
         PRDate: '16/7/2022',
         Issue: 'Issue 5'
     },
