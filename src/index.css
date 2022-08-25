@@ -29,8 +29,15 @@ body{
     border-radius: 1rem;
     padding: 2rem;
     line-height: 2em;
+    opacity: 80%;
 }
 
 .PRCard h5{
     color: #494B51;
+}
+
+.PRCard:hover {
+    border: 8px solid black;
+    background-color: blue;
+    opacity: 100%;
 }
