@@ -7,7 +7,7 @@ export const PRs = [
     },
     {
         id: 2,
-        Name: 'Yaiya Sam',
+        Name: 'Kalsha Samarajeewa',
         PRDate: '16/7/2022',
         Issue: 'Issue 2'
     },
@@ -37,19 +37,19 @@ export const PRs = [
     },
     {
         id: 7,
-        Name: 'Heshan Andrews',
+        Name: 'Sanjana Navarathne',
         PRDate: '9/8/2022',
         Issue: 'Issue 7'
     },
     {
         id: 8,
-        Name: 'Heshan Andrews',
+        Name: 'Kalsha Samarajeewa',
         PRDate: '9/8/2022',
         Issue: 'Issue 8'
     },
     {
         id: 9,
-        Name: 'Heshan Andrews',
+        Name: 'Pasindu Rupasinghe',
         PRDate: '16/8/2022',
         Issue: 'Issue 9'
     }
